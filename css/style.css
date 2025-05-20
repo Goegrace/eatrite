@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+ body{
+    background-color: rgb(247, 190, 6);
+ }
+.nav a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#ourservice img{
+    width: 100px;
+    background-color: rgb(247, 190, 6);
+    align-items: center;
+}
+
+#customer img{
+    width: 130px;
+    align-items: center;
+}
+.nav a{
+    color: #fff;
+}
+
+.nav a:hover{
+    color: rgb(10, 14, 243);
+}
+
+.hero{
+    opacity: 75;
+}
+
+#serve a{
+    color: rgb(247, 190, 6);
+    text-decoration: none;
+}
+
+#serve a:hover{
+    color: #fff;
+}
+
+#serve2 a{
+    color: #070bf3;
+    text-decoration: none;
+}
+
+#serve2 a:hover{
+    color: rgb(10, 8, 0);
+}
+
+#serve3 a{
+    color: rgb(10, 8, 0);
+    text-decoration: none;
+}
+
+#serve3 a:hover{
+    color: #f3e307e0;
+}
