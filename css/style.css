@@ -63,3 +63,11 @@
 #carouselE img{
 width: 100px;
 }
+#mail{
+    text-decoration: none;
+    color: #070bf3;
+}
+
+#navbarmenu{
+    color: yellow;
+}
